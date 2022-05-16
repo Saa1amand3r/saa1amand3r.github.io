@@ -1,8 +1,26 @@
-body {
-    background-color: black;
-}
-h1 {
-    color:orangered;
-    font-family:sans-serif;
+#name
+{
     text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    padding-top: 10%;
+}
+
+#info
+{
+    padding-top:3%;
+    padding-left: 33%;
+    padding-right: 33%;
+    font-family: 'Open Sans';
+    font-style: normal;
+    
+}
+
+#footer
+{
+    text-align: right;
+    padding-top:10%;
+    padding-right: 33%;
+    font-family: 'Open Sans';
+    font-style: normal;
 }
